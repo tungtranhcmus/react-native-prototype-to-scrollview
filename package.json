@@ -1,0 +1,25 @@
+{
+  "name": "react-native-prototype-to-scrollview",
+  "version": "1.0.0",
+  "description": "add prototype to scrollview",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tung Tran",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tungtranhcmus/react-native-prototype-to-scrollview"
+  },
+  "bugs": {
+    "url": "https://github.com/tungtranhcmus/react-native-prototype-to-scrollview/issues"
+  },
+  "homepage": "https://github.com/tungtranhcmus/react-native-prototype-to-scrollview",
+  "keywords": [
+    "react-native",
+    "scroll",
+    "scrollview",
+    "prototype"
+  ],
+  "license": "MIT"
+}
