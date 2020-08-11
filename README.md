@@ -5,6 +5,10 @@ npm install react-native-prototype-to-scrollview
 
 ## Usage
 
+```
+support to lib `react-native-scroll-lazy`
+```
+
 ```js
 import PrototypeToScrollview from 'react-native-prototype-to-scrollview'
 
